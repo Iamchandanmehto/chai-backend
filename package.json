@@ -1,0 +1,15 @@
+{
+  "name": "chaicode-backend",
+  "version": "1.0.0",
+  "description": "  a backend study from chaiCode.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "backend"
+  ],
+  "author": "Chandan Mehto",
+  "license": "ISC"
+}
